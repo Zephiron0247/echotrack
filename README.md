@@ -2,7 +2,7 @@
 
 An end-to-end sound event detection pipeline. It takes raw hydrophone (underwater microphone) audio, finds whale calls, tells you **which type of call** it is, and tells you **when it starts and ends**, with a confidence score for each detection.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR-USERNAME/echotrack-whale-call-detection/blob/main/notebooks/echotrack.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Zephiron0247/echotrack-whale-call-detection/blob/main/notebooks/echotrack.ipynb)
 
 <!-- Put one picture here: a spectrogram with the detected calls marked on it. Save it as results/detections.png -->
 ![Example detections](results/detections.png)
