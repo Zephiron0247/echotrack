@@ -75,4 +75,4 @@ Built on top of `[NAME AND LINK OF THE THIRD-PARTY RESEARCH CODEBASE / DATASET]`
 
 ## Author
 
-Irwin: [LinkedIn link] | [GitHub link]
+Naman Sharma: [https://www.linkedin.com/in/naman-sharma-135051319/?isSelfProfile=true]
